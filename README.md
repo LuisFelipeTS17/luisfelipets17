@@ -76,6 +76,8 @@ Minha formação atual é complementada por projetos práticos, estudos contínu
     src="https://github-readme-stats.vercel.app/api?username=luisfelipets17&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <br/>
+   <br/>
+   <br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
