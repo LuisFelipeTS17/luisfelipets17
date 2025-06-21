@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luis Felipe
+#  Luis Felipe Nepomuceno
 
 **`Desenvolvedor Back-end | Java | Spring | AWS`**
 
@@ -75,7 +75,7 @@ Minha formação atual é complementada por projetos práticos, estudos contínu
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=luisfelipets17&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
