@@ -58,7 +58,14 @@ Minha formação atual é complementada por projetos práticos, estudos contínu
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/600/spring-logo.png" 
 />
-
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" 
+/>
 <br/>
 <br/>
 
