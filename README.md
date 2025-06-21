@@ -7,8 +7,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas pelo Senac, busco apr
 Minha formação atual é complementada por projetos práticos, estudos contínuos e o desenvolvimento de aplicações voltadas à resolução de problemas reais.
    
 </p>
-<img src="![image](https://github.com/user-attachments/assets/f92fe738-53d8-4db9-adb3-43863342e63b)
-" height="520" width="236" frameborder="0" scrolling="no" ></img>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
